@@ -1,0 +1,2 @@
+bool? isDark;
+bool? isEnglish;
